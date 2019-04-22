@@ -1,0 +1,2 @@
+# treasure
+Satoshis Treasure Hunt
